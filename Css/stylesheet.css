@@ -1,0 +1,86 @@
+.navbar {
+    background-color: #73b4f7;
+    border-radius: 10px;
+}
+.navbar ul {
+    overflow: auto;
+    text-align: center;
+}
+.navbar li {
+    display: inline-block;
+    list-style: none;
+    margin: 13px 20px;
+    right: 80px;
+    text-align: center;
+    align-content: center;
+}
+.navbar li a {
+    padding: 5px 5px;
+    text-decoration: none;
+    color: white;
+    display: block;
+    text-align: center;
+    width: 100px;
+    height: 20px;
+}
+.navbar ul li a:hover {
+    color: red;
+    background-color: orange;
+    text-align: center;
+}
+.navbar ul li a {
+    display: block;
+    text-align: center;
+}
+.Home-page {
+    font-style: italic;
+    font-weight: bold;
+    display: block;
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: auto;
+    width: 200px;
+}
+body {
+	background-color: #C8C8C8;
+}
+h2:first-letter {
+	font-size: 150%;
+}
+h2 {
+	padding: 20px;
+	border: 5px solid black;
+	border-radius: 10px;
+	text-transform: capitalize;
+	background-color: hsla(0, 100%, 100%, 0.5);
+}
+h1 {
+	background-color: #F309173B;
+	border: 5px solid black;
+	border-radius: 10px;
+	padding: 3px;
+	margin: auto; 
+}
+h1 {
+	text-align: center;
+}
+img {
+	display: block;
+	margin: auto;
+	padding: 1px;
+	border: 5px solid black;
+	border-radius: 10px;
+	margin-top: 10px;
+	margin-bottom: -7px;
+}
+div {
+	font-style: italic;
+	font-weight: bold;
+	display: block;
+	width: 300px;
+	border: 5px solid black;
+	border-radius: 10px;
+    text-align: center;
+    margin: auto;
+}
