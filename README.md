@@ -1,2 +1,2 @@
-# RamanujGhosal.github.io
-A Portfolio Website In Devolopment
+# A example website 
+Hosted via github. 
